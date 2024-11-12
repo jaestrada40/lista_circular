@@ -1,0 +1,7 @@
+C:\Users\jaestrada\source\repos\lista_circular\lista_circular\obj\Debug\lista_circular.csproj.AssemblyReference.cache
+C:\Users\jaestrada\source\repos\lista_circular\lista_circular\obj\Debug\lista_circular.csproj.CoreCompileInputs.cache
+C:\Users\jaestrada\source\repos\lista_circular\lista_circular\bin\Debug\lista_circular.exe.config
+C:\Users\jaestrada\source\repos\lista_circular\lista_circular\bin\Debug\lista_circular.exe
+C:\Users\jaestrada\source\repos\lista_circular\lista_circular\bin\Debug\lista_circular.pdb
+C:\Users\jaestrada\source\repos\lista_circular\lista_circular\obj\Debug\lista_circular.exe
+C:\Users\jaestrada\source\repos\lista_circular\lista_circular\obj\Debug\lista_circular.pdb
